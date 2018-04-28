@@ -1,0 +1,75 @@
+[[1]]
+[1] "AICAR Group 10"  "MK-2206 Group 5"
+
+[[2]]
+[1] "AC220 Group 7"       "GSK1070916 Group 33" "GSK429286A Group 49" "Tivozanib Group 8"  
+
+[[3]]
+[1] "Afatinib Group 8"  "Gefitinib Group 8"
+
+[[4]]
+[1] "Camptothecin Group 34" "SN-38 Group 34"        "Talazoparib Group 9"  
+
+[[5]]
+ [1] "AP-24534 Group 44"            "AZ628 Group 18"               "BI-2536 Group 22"            
+ [4] "BMS-509744 Group 27"          "CGP-082996 Group 16"          "CMK Group 39"                
+ [7] "Crizotinib Group 37"          "Cyclopamine Group 43"         "Foretinib Group 37"          
+[10] "GW843682X Group 22"           "HG-6-64-1 Group 18"           "JQ12 Group 13"               
+[13] "KIN001-135 Group 1"           "LAQ824 Group 13"              "Linifanib Group 46"          
+[16] "MS-275 Group 13"              "Parthenolide Group 1"         "PHA-665752 Group 37"         
+[19] "Salubrinal Group 55"          "Sorafenib Group 44"           "S-Trityl-L-cysteine Group 55"
+[22] "Sunitinib Group 44"           "TAE684 Group 37"              "UNC0638 Group 55"            
+[25] "VX-680 Group 33"              "XMD8-85 Group 24"            
+
+[[6]]
+[1] "Cetuximab Group 8" "DMOG Group 11"    
+
+[[7]]
+[1] "AKT inhibitor VIII Group 5" "Embelin Group 41"           "FTI-277 Group 47"          
+
+[[8]]
+[1] "BMS-536924 Group 28" "SB52334 Group 46"   
+
+[[9]]
+[1] "AZD6482 Group 15" "BEZ235 Group 15" 
+
+[[10]]
+[1] "CHIR-99021 Group 38"  "GDC0449 Group 43"     "Nilotinib Group 44"   "Vorinostat Group 13 " "XMD11-85h Group 39"  
+[6] "XMD8-92 Group 24"    
+
+[[11]]
+[1] "681640 Group 4"      "PD-0332991 Group 16" "PF-4708671 Group 55"
+
+[[12]]
+ [1] "A-443654 Group 5"     "A-770041 Group 6"     "CGP-60474 Group 16"   "Dasatinib Group 44"   "Erlotinib Group 8"   
+ [6] "JW-7-52-1 Group 15"   "Paclitaxel Group 12"  "Rapamycin Group 15"   "Saracatinib Group 44" "TGX221 Group 15"     
+[11] "WH-4-023 Group 6"     "WZ-1-84 Group 54"     "Z-LLNle-CHO Group 29"
+
+[[13]]
+[1] "AUY922 Group 2"     "OSU-03012 Group 32" "QS11 Group 55"     
+
+[[14]]
+[1] "Shikonin Group 55"    "Tipifarnib Group 47"  "Vinorelbine Group 12"
+
+[[15]]
+ [1] "AS601245 Group 14"           "BMS-754807 Group 28"         "CCT018159 Group 2"          
+ [4] "Doxorubicin Group 25"        "Epothilone B Group 12"       "KIN001-055 Group 7"         
+ [7] "Lisitinib Group 28"          "Mitomycin C Group 25"        "NSC-87877 Group 55"         
+[10] "Obatoclax Mesylate Group 51"
+
+[[16]]
+[1] "Bleomycin (50 uM) Group 25" "Docetaxel Group 12"         "GSK-650394 Group 52"        "XAV939 Group 55"           
+[5] "YK 4-279 Group 55"         
+
+[[17]]
+ [1] "(5Z)-7-Oxozeaenol Group 1" "Bortezomib Group 30"       "CI-1040 Group 24"          "Dabrafenib Group 18"      
+ [5] "MG-132 Group 30"           "PD-0325901 Group 24"       "PLX4720 Group 18"          "RDEA119 Group 24"         
+ [9] "SB590885 Group 18"         "selumetinib Group 24"      "Trametinib Group 24"      
+
+[[18]]
+ [1] "AMG-706 Group 44"        "BIRB 0796 Group 23"      "Elesclomol Group 2"      "HG-5-113-01  Group 44"  
+ [5] "HG-5-88-01 Group 8"      "JNK-9L Group 14"         "KIN001-266 Group 1"      "Pazopanib Group 8"      
+ [9] "piperlongumine Group 55" "QL-VIII-58 Group 15"     "Thapsigargin Group 55"   "ZG-10 Group 55"         
+
+[[19]]
+[1] "Bicalutamide Group 23" "Lapatinib Group 8"     "YM155 Group 41"   
